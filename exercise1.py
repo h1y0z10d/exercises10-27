@@ -9,3 +9,4 @@ for char in s:
 		my_list.append(0)
 
 print(my_list)
+x
